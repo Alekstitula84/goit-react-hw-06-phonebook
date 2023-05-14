@@ -5,6 +5,6 @@ section {
   flex-direction: column;
   align-items: center;
   width: 400px;
-  background-color: rgba(178 146 171 / 50%);
+  background-color: rgba(131, 223, 206, 0.5);
   box-shadow: 0px 0px 8px 0px #33333347;
 }

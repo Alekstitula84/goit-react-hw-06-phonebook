@@ -6,12 +6,10 @@ export const contactsSlice = createSlice({
     name: 'contacts',
     initialState: {
         items: [
-            {
-                id: 'id-1', name: 'Jack Daniels', number: '459-12-56'
-            },
-            { id: 'id-2', name: 'Ben Riach', number: '443-89-12' },
-            { id: 'id-3', name: 'Glen Moray', number: '645-17-79' },
-            { id: 'id-4', name: 'Capitan Morgan', number: '227-91-26' },
+            { id: 'id-1', name: 'Jack Daniels', number: '59-12-101' },
+            { id: 'id-2', name: 'Ben Riach', number: '59-12-102' },
+            { id: 'id-3', name: 'Glen Moray', number: '59-12-103' },
+            { id: 'id-4', name: 'Capitan Morgan', number: '59-12-104' },
         ],
         filter: '',
     },

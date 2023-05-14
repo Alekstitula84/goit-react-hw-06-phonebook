@@ -5,7 +5,7 @@ form {
   align-items: center;
   border-radius: 10px;
   padding: 30px;
-  background-color: rgba(178 146 171 / 50%);
+  background-color: rgba(56, 63, 63, 0.5);
   box-shadow: 0px 0px 8px 0px #33333347;
 }
 
@@ -32,12 +32,12 @@ form > button {
   border: none;
   box-shadow: 0 0 2px #333;
   cursor: pointer;
-  background-color: rgba(178, 146, 171, 0.742);
+  background-color: rgba(223, 178, 129, 0.742);
   border-radius: 5px;
   transition-duration: 400ms;
 }
 
 form > button:hover {
   transform: scale(1.1);
-  background-color: rgba(79, 183, 93, 0.2);
+  background-color: rgba(209, 222, 25);
 }
